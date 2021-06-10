@@ -6,7 +6,8 @@ I am a young and enthusiastic developer who just loves programming and trying ne
 
 ### More Details
 
-- **Age:** 25
+- **Age:** 26
+- **Pronouns:** he/him
 - **Employment Status:** Employed
 - **Location:** Michigan, USA
 - **Favorite Programming Language:** C++
@@ -18,10 +19,10 @@ I am a young and enthusiastic developer who just loves programming and trying ne
 | Language | Years Experience | Proficiency |
 | --- | --- | --- |
 | C | 5+ | ★★★★☆ |
-| C++ | 3 | ★★★★★ |
-| C# | 4 | ★★★☆☆ |
+| C++ | 4 | ★★★★★ |
+| C# | 5+ | ★★★☆☆ |
 | JavaScript | 1 | ★★☆☆☆ |
-| Python | 2 | ★★★☆☆ |
+| Python | 3 | ★★★☆☆ |
 
 ### Skills
 
