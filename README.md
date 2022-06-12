@@ -6,7 +6,7 @@ I am a young and enthusiastic developer who just loves programming and trying ne
 
 ### More Details
 
-- **Age:** 26
+- **Age:** 27
 - **Pronouns:** he/him
 - **Employment Status:** Employed
 - **Location:** Michigan, USA
@@ -19,7 +19,7 @@ I am a young and enthusiastic developer who just loves programming and trying ne
 | Language | Years Experience | Proficiency |
 | --- | --- | --- |
 | C | 5+ | ★★★★☆ |
-| C++ | 4 | ★★★★★ |
+| C++ | 5+ | ★★★★★ |
 | C# | 5+ | ★★★☆☆ |
 | JavaScript | 1 | ★★☆☆☆ |
 | Python | 3 | ★★★☆☆ |
@@ -32,7 +32,6 @@ I am a young and enthusiastic developer who just loves programming and trying ne
 
 ### In-Development
 
-- ARM64 assembly
 - [Godot](https://godotengine.org) game engine
 - JavaScript (ES6/ES7)
 - Rust
