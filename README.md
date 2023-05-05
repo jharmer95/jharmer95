@@ -2,11 +2,11 @@
 
 ## Who Am I?
 
-I am a young and enthusiastic developer who just loves programming and trying new Free/Libre/Open-Source software.
+I am an enthusiastic developer who loves solving problems with programming and trying new Free/Libre/Open-Source software.
 
 ### More Details
 
-- **Age:** 27
+- **Age:** 28
 - **Pronouns:** he/him
 - **Employment Status:** Employed
 - **Location:** Michigan, USA
@@ -22,7 +22,7 @@ I am a young and enthusiastic developer who just loves programming and trying ne
 | C++ | 5+ | ★★★★★ |
 | C# | 5+ | ★★★☆☆ |
 | JavaScript | 1 | ★★☆☆☆ |
-| Python | 3 | ★★★☆☆ |
+| Python | 4 | ★★★☆☆ |
 
 ### Skills
 
@@ -35,6 +35,7 @@ I am a young and enthusiastic developer who just loves programming and trying ne
 - [Godot](https://godotengine.org) game engine
 - JavaScript (ES6/ES7)
 - Rust
+- Kotlin/Android app development
 
 ## Highlighted Projects
 
