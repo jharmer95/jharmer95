@@ -21,8 +21,8 @@ I am an enthusiastic developer who loves solving problems with programming and t
 | C | 5+ | ★★★★☆ |
 | C++ | 5+ | ★★★★★ |
 | C# | 5+ | ★★★☆☆ |
-| JavaScript | 1 | ★★☆☆☆ |
-| Python | 4 | ★★★☆☆ |
+| Python | 5 | ★★★☆☆ |
+| Rust | 4 | ★★★☆☆ |
 
 ### Skills
 
@@ -33,8 +33,7 @@ I am an enthusiastic developer who loves solving problems with programming and t
 ### In-Development
 
 - [Godot](https://godotengine.org) game engine
-- JavaScript (ES6/ES7)
-- Rust
+- JavaScript/TypeScript
 - Kotlin/Android app development
 
 ## Highlighted Projects
