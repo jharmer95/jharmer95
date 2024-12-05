@@ -6,7 +6,7 @@ I am an enthusiastic developer who loves solving problems with programming and t
 
 ### More Details
 
-- **Age:** 28
+- **Age:** 29
 - **Pronouns:** he/him
 - **Employment Status:** Employed
 - **Location:** Michigan, USA
@@ -21,8 +21,8 @@ I am an enthusiastic developer who loves solving problems with programming and t
 | C | 5+ | ★★★★☆ |
 | C++ | 5+ | ★★★★★ |
 | C# | 5+ | ★★★☆☆ |
-| Python | 5 | ★★★☆☆ |
-| Rust | 4 | ★★★☆☆ |
+| Python | 5+ | ★★★☆☆ |
+| Rust | 5 | ★★★☆☆ |
 
 ### Skills
 
